@@ -1,0 +1,26 @@
+{
+  "name": "roberto-carlon-frontend",
+  "version": "1.0.0",
+  "description": "Roberto Carlon Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiaraCar/roberto-carlon-frontend.git"
+  },
+  "keywords": [
+    "Roberto",
+    "Carlon",
+    "Website",
+    "2017",
+    "Cardiology"
+  ],
+  "author": "Chiara Carlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiaraCar/roberto-carlon-frontend/issues"
+  },
+  "homepage": "https://github.com/ChiaraCar/roberto-carlon-frontend#readme"
+}
